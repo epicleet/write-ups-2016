@@ -1,0 +1,6 @@
+/nimcache
+/nimstdlib
+*.exc
+*.pat
+*.sig
+*.a
