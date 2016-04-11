@@ -6,6 +6,7 @@
 ## Repo-local write-ups
 
 * [reverse/timekeeperslock-600](reverse/timekeeperslock-600)
+* [reverse/Auswahlen-120](reverse/Auswahlen-120)
 * [reverse/suspect-router-100](reverse/suspect-router-100)
 * [web/bathing-and-grooming-400](web/bathing-and-grooming-400)
 
